@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Bengkalis Online Service</string>
+    <!--navigation drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation
+drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <!--menu drawer-->
+    <string name="menu_home">Beranda</string>
+    <string name="menu_user_services">Jasa Pengguna</string>
+    <string name="menu_account_setting">Pengaturan Akun</string>
+    <string name="menu_user_profile">Profil Pengguna</string>
+    <string name="menu_logout">Logout</string>
+    <!--splash screen-->
+    <string name="icon_url">https://www.flaticon.com/</string>
+    <!--form login-->
+    <string name="signin">Silahkan Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Tidak punya akun, silahkan
+<u><b>Mendaftar</b></u></string>
+    <string name="medsos">Kunjungi Media Sosial Kami</string>
+    <!--form register-->
+    <string name="daftar">Daftar Akun</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <array name="jenis_kelamin">
+        <item>Jenis Kelamin</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </array>
+    <string name="no_hp">Nomor HP</string>
+    <string name="alamat">Alamat</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="submit">Submit</string>
+    <!--fragment profile-->
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="waktu_sesi">Waktu Sesi</string>
+    <string name="mypicture">Gambar Profil</string>
+    <string name="myname">Miza Hilmiya</string>
+    <string name="mybirth">5 Desember 2003</string>
+    <string name="mygender">Wanita</string>
+    <string name="myphone">0812–3456–7890</string>
+    <string name="myaddres">Jl. Kelapapati Darat</string>
+    <string name="myemail">mizahilmiya@gmail.com</string>
+    <string name="mysession">12–12–2024 09:00:00</string>
+    <string name="edit_profil">Ubah Profil</string>
+    <string name="hapus_akun">Hapus Akun</string>
+    <!--form edit profile-->
+    <string name="ubah_profile">Ubah Profile</string>
+    <string name="judul_password">Silahkan kosongkan password, jika tidak
+mau mengubahnya!</string>
+</resources>
