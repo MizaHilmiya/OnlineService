@@ -15,10 +15,15 @@
         android:theme="@style/Theme.OnlineService"
         tools:targetApi="31">
         <activity
+            android:name=".activities.DetailJasaActivity"
+            android:exported="false"
+            android:label="Detail Jasa"
+            android:parentActivityName=".activities.MainActivity"/>
+        <activity
             android:name=".activities.EditProfileActivity"
             android:exported="false"
             android:label="@string/ubah_profile"
-            android:parentActivityName=".activities.MainActivity"/>
+            android:parentActivityName=".activities.MainActivity" />
         <activity
             android:name=".activities.RegisterActivity"
             android:exported="false"

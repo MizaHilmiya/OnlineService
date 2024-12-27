@@ -53,4 +53,16 @@ drawer</string>
     <string name="ubah_profile">Ubah Profile</string>
     <string name="judul_password">Silahkan kosongkan password, jika tidak
 mau mengubahnya!</string>
+    <!--jasa list-->
+    <string name="service_ac_barokah">Service AC Barokah</string>
+    <string name="deskripsi_ringkas">Melayani service ac rumah, kantor,gedung dll</string>
+    <string name="rating">4</string>
+    <!--form detail jasa-->
+    <string name="detail_jasa">Detail Jasa</string>
+    <string name="nama_jasa">Nama Jasa</string>
+    <string name="penyedia">Penyedia</string>
+    <string name="kontak">Kontak</string>
+    <string name="newrating">Rating</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="uraian_deskripsi">Uraian Deskripsi</string>
 </resources>
