@@ -26,4 +26,6 @@ interface UserService {
     fun deleteUser(
         @Path("id") id: Int
     ): Call<DefaultResponse>
+
+
 }

@@ -80,7 +80,7 @@ class HomeFragment : Fragment() {
                         jasaAdapter.setOnItemClickCallback(object :
                             JasaAdapter.OnItemClickCallback {
                             override fun onItemClicked(data: Jasa) {
-                                Toast.makeText(context, "Service clicked {data.namaJasa}", Toast.LENGTH_SHORT).show()
+
                                 val intent = Intent(context, DetailJasaActivity::class.java)
                                 intent.putExtra(Config.EXTRA_JASA, data)
                                 startActivity(intent)

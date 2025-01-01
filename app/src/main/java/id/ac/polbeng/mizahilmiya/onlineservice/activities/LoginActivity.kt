@@ -27,6 +27,7 @@ class LoginActivity : AppCompatActivity() {
             loadMainActivity()
         }
 
+
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -85,8 +86,7 @@ class LoginActivity : AppCompatActivity() {
             })
         }
         binding.tvDaftar.setOnClickListener {
-            val intent = Intent(applicationContext,
-                RegisterActivity::class.java)
+            val intent = Intent(applicationContext, RegisterActivity::class.java)
             startActivity(intent)
         }
     }

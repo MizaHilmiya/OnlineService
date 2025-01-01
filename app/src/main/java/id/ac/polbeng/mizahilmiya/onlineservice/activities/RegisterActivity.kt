@@ -26,14 +26,12 @@ class RegisterActivity : AppCompatActivity() {
         binding.btnSubmit.setOnClickListener {
             val nama = binding.etNama.text.toString()
             val tanggalLahir = binding.etTanggalLahir.text.toString()
-            val jenisKelamin =
-                binding.spJenisKelamin.selectedItem.toString()
+            val jenisKelamin = binding.spJenisKelamin.selectedItem.toString()
             val nomorHP = binding.etNomorHP.text.toString()
             val alamat = binding.etAlamat.text.toString()
             val email = binding.etEmail.text.toString()
             val password = binding.etPassword.text.toString()
-            val konfirmasiPassword =
-                binding.etKonfirmasiPassword.text.toString()
+            val konfirmasiPassword = binding.etKonfirmasiPassword.text.toString()
 
             if(TextUtils.isEmpty(nama)){
                 binding.etNama.error = "Nama tidak boleh kosong!"

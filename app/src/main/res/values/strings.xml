@@ -57,6 +57,7 @@ mau mengubahnya!</string>
     <string name="service_ac_barokah">Service AC Barokah</string>
     <string name="deskripsi_ringkas">Melayani service ac rumah, kantor,gedung dll</string>
     <string name="rating">4</string>
+
     <!--form detail jasa-->
     <string name="detail_jasa">Detail Jasa</string>
     <string name="nama_jasa">Nama Jasa</string>
@@ -65,4 +66,16 @@ mau mengubahnya!</string>
     <string name="newrating">Rating</string>
     <string name="deskripsi_singkat">Deskripsi Singkat</string>
     <string name="uraian_deskripsi">Uraian Deskripsi</string>
+    <!--form add jasa-->
+    <string name="tambah_jasa">Tambah Jasa</string>
+    <string name="default_rating"><i>Default Rating = </i></string>
+    <string name="nol"><i>0</i></string>
+    <string name="cari">Cari</string>
+    <string name="pilih_gambar">Pilih sebuah gambar!</string>
+    <string name="simpan_data">&#160;Simpan Data&#160;</string>
+
+    <!--form edit jasa-->
+    <string name="judul_rating"><i>Rating = </i></string>
+    <string name="ubah_jasa">Ubah Jasa</string>
+    <string name="hapus_data">Hapus Data</string>
 </resources>
